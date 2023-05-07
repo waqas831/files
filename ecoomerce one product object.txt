@@ -1,6 +1,6 @@
 {
     "id": 7571844333740,
-    "title": "Womens Strap Sandals",
+    "title": "Womens Strap Sandals works",
     "handle": "mens-dual-strap-sandals-m-pl-cub-0009-khaki",
     "description": "<p>These sandals will ensure a fit that is personal to you and will provide comfortable foot support.</p><p>They have been made with good quality Man Made Leather material that gives them durability.</p><p>These shoes feature a round toe shape and a padded insole.</p><p>The EVA outsole provides comfort, grip and keeps the shoe light.</p><p>These shoes are not washable.</p>",
     "published_at": "2023-02-27T23:36:44+05:00",
